@@ -39,9 +39,9 @@ it is a very straightforward simple linear approach for predicting a quantitativ
 > 
 > * Visualize the findings using appropriate chart type?  
 > 
-> * Create bins for population into a new variable by selecting appropriate class interval so that the number of categories don’t exceed 5 for the ease of analysis.
-     a) Analyze the married, separated, and divorced population for these population brackets?
-     b) Visualize using appropriate chart type?  
+> * Create bins for population into a new variable by selecting appropriate class interval so that the number of categories don’t exceed 5 for the ease of analysis.  
+>    a) Analyze the married, separated, and divorced population for these population brackets?  
+>    b) Visualize using appropriate chart type?  
      
 > * Please detail your observations for rent as a percentage of income at an overall level, and for different states?  
 > 
